@@ -6,9 +6,8 @@ import java.util.Arrays;
 public class Task_3 {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
-        int length = sc.nextInt();
-        int [] arrayInitial = new int[length];
-        for( int i = 0; i < length; i++){
+        int [] arrayInitial = new int[10];
+        for( int i = 0; i < arrayInitial.length; i++){
             arrayInitial[i]= sc.nextInt();
         }
         int [] a1 = new int[arrayInitial.length / 2];

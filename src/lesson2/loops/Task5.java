@@ -113,7 +113,8 @@ public class Task5 {
     private static void playerMove(String [][] ticTac, Scanner sc, String s) {
         boolean freePosition = true;
         while(freePosition) {
-            System.out.println("Please input cell position. First input horizontal position, next input vertical position.");
+            System.out.println("Please input cell position. First input horizontal position, next input vertical position." +
+                    "Please input position from 0 to 2 ");
             int x = sc.nextInt();
             int y = sc.nextInt();
             System.out.println();

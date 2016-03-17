@@ -9,7 +9,7 @@ public class Task8 {
 
     static int [] operationIndex;
     static char [] operation;
-    static Double [] variables;
+    static double [] variables;
 
     public static void main (String [] args){
         Scanner sc = new Scanner(System.in);
