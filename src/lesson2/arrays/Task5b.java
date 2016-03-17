@@ -3,7 +3,7 @@ package lesson2.arrays; /**
  */
 import java.util.Scanner;
 
-public class Task_5_2 {
+public class Task5b {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         int length = sc.nextInt();

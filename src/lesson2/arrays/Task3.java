@@ -3,7 +3,7 @@ package lesson2.arrays; /**
  */
 import java.util.Scanner;
 import java.util.Arrays;
-public class Task_3 {
+public class Task3 {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         int [] arrayInitial = new int[10];
