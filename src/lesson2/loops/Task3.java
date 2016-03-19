@@ -2,6 +2,8 @@ package lesson2.loops;
 
 /**
  * Created by Михаил on 06.03.2016.
+ * 
+ * Заполнить массив числами от 100 до 0.
  */
 import java.util.Arrays;
 public class Task3 {
