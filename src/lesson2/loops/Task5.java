@@ -2,6 +2,8 @@ package lesson2.loops;
 
 /**
  * Created by Михаил on 14.03.2016.
+ * 
+ * Написать игру «Крестики нолики» используя двухмерные массивы.
  */
 import java.util.Random;
 import java.util.Scanner;
