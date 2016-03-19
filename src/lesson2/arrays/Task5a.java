@@ -4,6 +4,9 @@ import java.util.Arrays;
 
 /**
  * Created by Михаил on 05.03.2016.
+ * 
+ * Задачи на 5-ку 
+    - Написать код для зеркального переворота массива (1,2,3,4) -> (4,3,2,1).
  */
 public class Task5a {
     public static void main(String [] args){
