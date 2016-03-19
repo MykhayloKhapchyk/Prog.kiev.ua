@@ -2,6 +2,8 @@ package lesson2.loops;
 
 /**
  * Created by Михаил on 05.03.2016.
+ * 
+ * Вывести на экран 0-й, 14-й и 27-й элементы массива.
  */
 public class Task0 {
     public static void main(String [] args){
