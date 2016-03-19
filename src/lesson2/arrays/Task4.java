@@ -1,5 +1,7 @@
 package lesson2.arrays; /**
  * Created by Михаил on 05.03.2016.
+ *
+ * Задача 4: Среднее арифметическое элементов массива.
  */
 
 public class Task4 {

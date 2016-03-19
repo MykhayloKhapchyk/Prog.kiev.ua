@@ -2,6 +2,8 @@ package lesson2.loops;
 
 /**
  * Created by Михаил on 06.03.2016.
+ *
+ * Дано массив из 10 целых чисел. Вывести на экран сумму всех его элементов кроме первого и последнего.
  */
 import java.util.Random;
 public class Task4 {

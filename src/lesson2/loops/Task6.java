@@ -2,6 +2,8 @@ package lesson2.loops;
 
 /**
  * Created by Михаил on 12.03.2016.
+ *
+ * Найти в массиве чисел элементы с наибольшим и наименьшим значениями.
  */
 import java.util.Arrays;
 import java.util.Random;
